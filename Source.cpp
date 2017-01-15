@@ -190,6 +190,10 @@ int main()
 	cout << "searching for ranked order " << i << endl;
 	cout << i<< " position from Rselect : " << temp << endl;
 	cout << "Via quicksort " << find << " position : " << arr2[find - 1] << endl;
+	
+	delete[] arr;
+	delete[] arr2;
+	
 	//temp pause;
 	int userInput;
 	cout << "Exiting..." << endl;
