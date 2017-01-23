@@ -1,6 +1,6 @@
 # super-duper-disco
 
-We look for the ith largest element in an unsorted array using a modified quick sort
+We look for the ith smallest element in an unsorted array using a modified quick sort
 with a randomly generated pivot. We compare the results against the same array sorted
 via quicksort to give us the ith element.
 
